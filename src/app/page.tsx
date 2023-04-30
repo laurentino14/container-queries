@@ -21,7 +21,7 @@ export default function Home() {
           Newsletter
         </button>
       </header>
-      <main className="mx-auto flex max-w-5xl flex-col px-8 pt-40  xl:px-0">
+      <main className="mx-auto flex max-w-5xl flex-col px-8 pt-20 lg:pt-40  xl:px-0">
         <ArticlesCard />
         <div className="mt-10 grid gap-8 lg:mt-24 lg:grid-cols-3 ">
           <ArticlesCard />
